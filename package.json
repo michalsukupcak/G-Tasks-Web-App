@@ -1,0 +1,40 @@
+{
+  "name": "polymer-starter-kit",
+  "flat": true,
+  "version": "",
+  "contributors": [
+    "The Polymer Authors"
+  ],
+  "license": "https://polymer.github.io/LICENSE.txt",
+  "dependencies": {
+    "@polymer/app-layout": "^3.0.0-pre.1",
+    "@polymer/app-route": "^3.0.0-pre.1",
+    "@polymer/iron-flex-layout": "^3.0.0-pre.1",
+    "@polymer/iron-icon": "^3.0.0-pre.1",
+    "@polymer/iron-icons": "^3.0.0-pre.1",
+    "@polymer/iron-iconset-svg": "^3.0.0-pre.1",
+    "@polymer/iron-media-query": "^3.0.0-pre.1",
+    "@polymer/iron-pages": "^3.0.0-pre.1",
+    "@polymer/iron-selector": "^3.0.0-pre.1",
+    "@polymer/neon-animation": "^3.0.0-pre.1",
+    "@polymer/paper-button": "^3.0.0-pre.1",
+    "@polymer/paper-checkbox": "^3.0.0-pre.1",
+    "@polymer/paper-dialog": "^3.0.0-pre.1",
+    "@polymer/paper-dialog-scrollable": "^3.0.0-pre.1",
+    "@polymer/paper-icon-button": "^3.0.0-pre.1",
+    "@polymer/paper-input": "^3.0.0-pre.1",
+    "@polymer/paper-item": "^3.0.0-pre.1",
+    "@polymer/paper-listbox": "^3.0.0-pre.1",
+    "@polymer/paper-menu-button": "^3.0.0-pre.1",
+    "@polymer/paper-ripple": "^3.0.0-pre.1",
+    "@polymer/paper-spinner": "^3.0.0-pre.1",
+    "@polymer/paper-styles": "^3.0.0-pre.1",
+    "@polymer/paper-toast": "^3.0.0-pre.19",
+    "@polymer/polymer": "^3.0.0-pre.1",
+    "@vaadin/vaadin-date-picker": "^3.0.0-pre.3",
+    "@webcomponents/webcomponentsjs": "^1.0.0",
+    "moment": "^2.22.1",
+    "web-animations-js": "^2.3.1"
+  },
+  "devDependencies": {}
+}
